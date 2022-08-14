@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Software engineer graduated from Univerity of Buenos Aires UBA
+Telecomunications at Institut national des sciences appliquées de Lyon INSA LYON
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jferreiro@fi.uba.ar](mailto:jferreiro@fi.uba.ar)
