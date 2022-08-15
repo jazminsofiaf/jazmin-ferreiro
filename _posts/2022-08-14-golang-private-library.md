@@ -11,9 +11,10 @@ When set, will use "https://${GITHUB_TOKEN}:x-oauth-basic@github.com/" to downlo
 
 # Install lib with go install
 
-```
+{% highlight bash %}
  export GOPATH=$HOME/go 
-```
+{% endhighlight %}
+
 
 ```
  export PATH=$PATH:$GOPATH/bin
