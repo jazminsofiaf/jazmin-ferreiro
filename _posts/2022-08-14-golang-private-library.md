@@ -11,14 +11,14 @@ When set, will use "https://${GITHUB_TOKEN}:x-oauth-basic@github.com/" to downlo
 
 # Install lib with go install
 
-```jsx
-*export GOPATH=$HOME/go*
+```
+ export GOPATH=$HOME/go 
 ```
 
-```jsx
-*export PATH=$PATH:$GOPATH/bin*
+```
+ export PATH=$PATH:$GOPATH/bin
 ```
 
-```jsx
+```
 go install github.com/golangci/golangci-lint/cmd/golangci-lint@v1.42
 ```
